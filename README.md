@@ -5,11 +5,11 @@
 # Haruka
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
-Can be found on telegram as [Haruka Aya](https://t.me/HarukaAyaBot).
+Can be found on telegram as [Anie](https://t.me/anieBot).
 
-Alternatively, [find me on telegram](https://t.me/peaktogoo)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/bossown! (Keep all support questions in the support chat, where more people can help you.)
 
-You can also join our support group [here!](https://t.me/HarukaAyaBot)
+You can also join our support group [here!](https://t.me/anieBot)
 
 ## Thanks to
 
