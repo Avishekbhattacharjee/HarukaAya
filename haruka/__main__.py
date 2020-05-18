@@ -137,11 +137,11 @@ def send_start(bot, update):
     text = "Hey there! My name is Anie Bot - I'm here to help you manage your groups!\n\
 Click Help button to find out more about how to use me to my full potential.\n\n"
 
-    text += "Join [Anie Support Group](https://t.me/aniegroup) ( @AnieGroup ) if you need any support or help\n\n\
-Follow [Anie](https://t.me/aniechannel) ( @aniegroup ) if you want to keep up with the news, updates and bot downtime!\n\n\
+    text += "Join [Anie Support Group](https://t.me/anieSupport) ( @AnieSupport ) if you need any support or help\n\n\
+Follow [Anie](https://t.me/anienews) ( @anieSupport ) if you want to keep up with the news, updates and bot downtime!\n\n\
 Made with love by @bossown\n\nWant to add me to your group? [Click here!](t.me/aniebot?startgroup=true)"
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/aniegroup")]]
+    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/anieSupport")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
